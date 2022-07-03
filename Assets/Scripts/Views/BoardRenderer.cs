@@ -1,7 +1,8 @@
-﻿using Tactile.TactileMatch3Challenge.Model;
+﻿using Model;
+using Tactile.TactileMatch3Challenge.Model;
 using UnityEngine;
 
-namespace Tactile.TactileMatch3Challenge.ViewComponents {
+namespace Views {
 
 	public class BoardRenderer : MonoBehaviour {
 		

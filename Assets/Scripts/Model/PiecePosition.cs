@@ -1,3 +1,5 @@
+using Model;
+
 namespace Tactile.TactileMatch3Challenge.Model {
 
 	public struct PiecePosition {

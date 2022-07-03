@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Tactile.TactileMatch3Challenge.ViewComponents {
+namespace Views {
     
     [RequireComponent(typeof(SpriteRenderer))]
     public class VisualPiece : MonoBehaviour {

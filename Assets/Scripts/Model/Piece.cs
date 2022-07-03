@@ -1,4 +1,4 @@
-namespace Tactile.TactileMatch3Challenge.Model {
+namespace Model {
     
     public class Piece {
         

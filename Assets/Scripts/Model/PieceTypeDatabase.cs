@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Tactile.TactileMatch3Challenge.Model {
+namespace Model {
 
 	public class PieceTypeDatabase : MonoBehaviour {
 		[SerializeField] private List<Sprite> spritesPerPieceTypeId;
