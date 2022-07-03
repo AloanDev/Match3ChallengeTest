@@ -173,7 +173,7 @@ namespace Model
 
         public Piece[] GetNeighbors(int x, int y)
         {
-            var neighbors = new List<Piece>(4);
+            var neighbors = new List<Piece>(5);
 
             neighbors = AddNeighbor(x - 1, y, neighbors); // Left
             neighbors = AddNeighbor(x, y - 1, neighbors); // Top

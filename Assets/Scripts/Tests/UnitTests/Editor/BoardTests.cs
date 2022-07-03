@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using Model;
 using NUnit.Framework;
-using Tactile.TactileMatch3Challenge.Model;
+using Tactile.TactileMatch3Challenge.Tests.UnitTests;
 
-namespace Tactile.TactileMatch3Challenge.Tests.UnitTests {
+namespace Tests.UnitTests.Editor {
     
     public class BoardTests {
         

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using Model;
+using Tactile.TactileMatch3Challenge.Model;
 
-namespace Tactile.TactileMatch3Challenge.Model {
+namespace Model {
 
 	public class ResolveResult {
 		public readonly Dictionary<Piece, ChangeInfo> changes = new Dictionary<Piece, ChangeInfo>();

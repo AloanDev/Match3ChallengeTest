@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a0b21452-736a-4cc4-9e20-f07146abbced" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Match3ChallengeTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Match3ChallengeTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Boot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Boot.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Model/Board.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Model/Board.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Model/IBoard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Model/IBoard.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Model/Piece.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Model/Piece.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Model/PieceSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Model/PieceSpawner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Model/PieceTypeDatabase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Model/PieceTypeDatabase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Views/BoardRenderer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Views/BoardRenderer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Model/ResolveResult.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Model/ResolveResult.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Tests/UnitTests/Editor/BoardTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Tests/UnitTests/Editor/BoardTests.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +13,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Program Files/Unity/Hub/Editor/2019.4.13f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.2d.sprite/Tests/Editor/SpritePackageTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/59819be142c34115ade688f6962021f153000/72/e8348b8a/TestAttribute.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.16/Tests/Editor/HistoryTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer-hlapi@1.0.6/Runtime/ClientScene.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer-hlapi@1.0.6/Runtime/LocalClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer-hlapi@1.0.6/Runtime/LogFilter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer-hlapi@1.0.6/Runtime/NetworkAnimator.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,10 +66,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="6860">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="6860" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -81,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656857343567</updated>
-      <workItem from="1656857362981" duration="1423000" />
+      <workItem from="1656857362981" duration="3761000" />
     </task>
     <servers />
   </component>
